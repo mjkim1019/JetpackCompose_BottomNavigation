@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="text_calendar">캘린더</string>
+    <string name="text_timeline">타임라인</string>
+    <string name="text_analysis">분석보고서</string>
+    <string name="text_settings">설정</string>
+</resources>
